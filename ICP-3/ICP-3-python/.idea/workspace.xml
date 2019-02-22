@@ -2,161 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce79e69e-0fc3-49a8-a9ba-104c63e44463" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/CS5542-Tutorial2-SparkSourceCode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/libraries/sbt__asm_asm_3_2_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/libraries/sbt__commons_net_commons_net_3_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/libraries/sbt__org_codehaus_jackson_jackson_jaxrs_1_8_8_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/libraries/sbt__org_codehaus_jackson_jackson_xc_1_8_8_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_7_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/libraries/sbt__org_scala_lang_scalap_2_11_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/modules/SparkWordCount-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/.idea/modules/SparkWordCount-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/modules/SparkWordCount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/.idea/modules/SparkWordCount.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/.idea/scala_compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/output.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/build.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/plugins.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/project/target/config-classes/$7c1b305aaf4ca3fac2fc$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/project/target/config-classes/$7c1b305aaf4ca3fac2fc.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/project/target/config-classes/$7c1b305aaf4ca3fac2fc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/project/target/config-classes/$c232813f40bfa80c23ac$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/project/target/config-classes/$c232813f40bfa80c23ac$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/project/target/config-classes/$c232813f40bfa80c23ac.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/project/target/config-classes/$c232813f40bfa80c23ac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$0187aba282ef9465955b$$anonfun$root$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$0187aba282ef9465955b$$anonfun$root$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$0187aba282ef9465955b$$anonfun$root$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$0187aba282ef9465955b$$anonfun$root$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$0187aba282ef9465955b$$anonfun$root$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$0187aba282ef9465955b$$anonfun$root$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$0187aba282ef9465955b$$anonfun$root$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$0187aba282ef9465955b$$anonfun$root$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$0187aba282ef9465955b$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$0187aba282ef9465955b.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$0187aba282ef9465955b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$073d067b599077ccb6d2$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$073d067b599077ccb6d2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$073d067b599077ccb6d2.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$073d067b599077ccb6d2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$454f843ab3d9ef4ae8bb$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$454f843ab3d9ef4ae8bb$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$454f843ab3d9ef4ae8bb.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$454f843ab3d9ef4ae8bb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$4b9c954192ca5a864905$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$4b9c954192ca5a864905$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$4b9c954192ca5a864905$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$4b9c954192ca5a864905.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$4b9c954192ca5a864905.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$807170fae35bbb4df754$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$807170fae35bbb4df754$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$807170fae35bbb4df754.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$807170fae35bbb4df754.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$c9991365fd20183525b3$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$c9991365fd20183525b3$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$c9991365fd20183525b3.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/config-classes/$c9991365fd20183525b3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-spark-wordcount-build-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-spark-wordcount-build-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-spark-wordcount-build-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-spark-wordcount-build-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-spark-wordcount-build-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-spark-wordcount-build-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-spark-wordcount-build-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-spark-wordcount-build-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-spark-wordcount-build-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-spark-wordcount-build-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-spark-wordcount-build-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-spark-wordcount-build-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-spark-wordcount-build-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-sparkwordcount-build-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-sparkwordcount-build-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-sparkwordcount-build-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-sparkwordcount-build-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-sparkwordcount-build-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-sparkwordcount-build-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-sparkwordcount-build-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-sparkwordcount-build-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-sparkwordcount-build-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-sparkwordcount-build-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-sparkwordcount-build-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-sparkwordcount-build-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/default-sparkwordcount-build-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/src/main/scala/SparkWordCount.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount$sources_2.11-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount$sources_2.11-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount$sources_2.11-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount$sources_2.11-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount$sources_2.11-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount$sources_2.11-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount$sources_2.11-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount$sources_2.11-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount$sources_2.11-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount$sources_2.11-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount$sources_2.11-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount$sources_2.11-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount$sources_2.11-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount_2.11-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount_2.11-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount_2.11-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount_2.11-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount_2.11-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount_2.11-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount_2.11-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount_2.11-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount_2.11-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount_2.11-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount_2.11-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount_2.11-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/reports/sparkwordcount-sparkwordcount_2.11-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/sparkwordcount/sparkwordcount$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/sparkwordcount/sparkwordcount$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/sparkwordcount/sparkwordcount_2.11/1.0/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/resolution-cache/sparkwordcount/sparkwordcount_2.11/1.0/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -168,11 +15,11 @@
     <session id="1829892673">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -201,7 +48,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -210,7 +57,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Feature Extraction.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
@@ -254,7 +101,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,10 +112,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Image_FE" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -348,9 +195,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24085851" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24085851" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -373,17 +219,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Feature Extraction.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
