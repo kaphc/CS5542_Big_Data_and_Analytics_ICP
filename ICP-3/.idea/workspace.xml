@@ -2,8 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5326861d-25d1-4c90-895e-b2ff92e9a514" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ICP-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-5/ClassificationCNN/ClassificationMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-5/ClassificationCNN/ClassificationMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/.idea/modules/Lab-1-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/.idea/modules/Lab-1-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/.idea/modules/Lab-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/.idea/modules/Lab-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/data/keywords" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/data/keywords" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$7d547212094825705a0e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$7d547212094825705a0e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$7d547212094825705a0e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$83949e48a8ce31930af9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$83949e48a8ce31930af9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$83949e48a8ce31930af9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$aebc5da84e853e1a79fd$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$aebc5da84e853e1a79fd.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$aebc5da84e853e1a79fd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$b7cce0e2c20c4f94ac6f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$b7cce0e2c20c4f94ac6f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$b7cce0e2c20c4f94ac6f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$fb0a1891c0813c802b43$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$fb0a1891c0813c802b43.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/config-classes/$fb0a1891c0813c802b43.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/target/scala-2.12/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/target/scala-2.12/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/NLP/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/NLP/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/SIFT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-1/SIFT/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,31 +60,42 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1130984640">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ICP-3-python/Feature Extraction.ipynb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ICP-3-python/hello.py">
-          <provider selected="true" editor-type-id="text-editor">
+        <entry file="file://$PROJECT_DIR$/ICP-3-python/Feature Extraction.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+              <selected id="4" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>draw</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="948" />
-    <option name="width" value="981" />
-    <option name="height" value="1032" />
+    <option name="x" value="949" />
+    <option name="width" value="980" />
+    <option name="height" value="1031" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -52,8 +103,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,10 +119,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/NLP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,9 +160,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="632" y="0" width="654" height="688" extended-state="0" />
+    <frame x="633" y="0" width="653" height="687" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2564935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -142,16 +194,18 @@
       <window_info anchor="right" id="sbt" order="8" />
     </layout>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ICP-3-python/hello.py" />
     <entry file="file://$PROJECT_DIR$/ICP-3-python/Feature Extraction.ipynb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICP-3-python/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <selected id="4" />
         </state>
       </provider>
+      <provider editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

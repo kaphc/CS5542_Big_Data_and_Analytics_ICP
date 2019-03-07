@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="lab-1 [file:/C:/Users/Kavin%20Kumar/Documents/GitHub/CS5542_Team_2_LabAssignments/Lab-1/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="nlp [file:/C:/Users/Kavin%20Kumar/Documents/GitHub/CS5542_Big_Data_and_Analytics_ICP/Lab-1/NLP/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../target/scala-2.12/classes" />
     <output-test url="file://$MODULE_DIR$/../../target/scala-2.12/test-classes" />
@@ -14,120 +14,18 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sbt: com.google.protobuf:protobuf-java:2.6.1:jar" level="project" />
-    <orderEntry type="library" name="sbt: com.googlecode.efficient-java-matrix-library:ejml:0.23:jar" level="project" />
-    <orderEntry type="library" name="sbt: com.io7m.xom:xom:1.2.10:jar" level="project" />
-    <orderEntry type="library" name="sbt: de.jollyday:jollyday:0.4.7:jar" level="project" />
-    <orderEntry type="library" name="sbt: edu.stanford.nlp:stanford-corenlp:3.6.0:jar" level="project" />
-    <orderEntry type="library" name="sbt: edu.stanford.nlp:stanford-corenlp:3.6.0:models:jar" level="project" />
-    <orderEntry type="library" name="sbt: javax.json:javax.json-api:1.0:jar" level="project" />
-    <orderEntry type="library" name="sbt: javax.xml.bind:jaxb-api:2.2.7:jar" level="project" />
-    <orderEntry type="library" name="sbt: joda-time:joda-time:2.9:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.8:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:1.7.12:jar" level="project" />
-    <orderEntry type="library" name="sbt: xalan:xalan:2.7.0:jar" level="project" />
-    <orderEntry type="library" name="sbt: xerces:xercesImpl:2.8.0:jar" level="project" />
     <orderEntry type="library" name="sbt: xml-apis:xml-apis:1.3.03:jar" level="project" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/lib/jline.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/lib/scala-compiler.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/lib/scala-library.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/lib/scala-reflect.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/lib/scala-xml_2.12.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/actions_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/apple-file-events-1.3.2.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/caffeine-2.5.6.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/collections_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/command_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/compiler-bridge_2.12-1.2.5.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/compiler-interface-1.2.5.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/completion_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/config-1.2.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/core-macros_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/disruptor-3.4.2.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/fastparse-utils_2.12-0.4.2.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/fastparse_2.12-0.4.2.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/gigahorse-core_2.12-0.3.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/gigahorse-okhttp_2.12-0.3.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/io_2.12-1.2.2.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ipcsocket-1.0.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/jawn-parser_2.12-0.10.4.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/jline-2.14.6.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/jna-4.5.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/jna-platform-4.5.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/jsch-0.1.54.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/launcher-interface-1.0.4.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/lenses_2.12-0.4.12.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/librarymanagement-core_2.12-1.2.4.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/librarymanagement-ivy_2.12-1.2.4.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/log4j-api-2.11.1.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/log4j-core-2.11.1.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/log4j-slf4j-impl-2.11.1.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/logic_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/main-settings_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/main_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/okhttp-3.7.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/okhttp-urlconnection-3.7.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/okio-1.12.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/protobuf-java-3.3.1.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/protocol_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/reactive-streams-1.0.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/run_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/sbinary_2.12-0.5.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/sbt-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/scala-parser-combinators_2.12-1.0.5.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/scala-reflect-2.12.7.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/scala-xml_2.12-1.0.6.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/scalacache-caffeine_2.12-0.20.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/scalacache-core_2.12-0.20.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/scalapb-runtime_2.12-0.6.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/scripted-plugin_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/scripted-sbt-redux_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/shaded-scalajson_2.12-1.0.0-M4.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/sjson-new-core_2.12-0.8.2.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/sjson-new-murmurhash_2.12-0.8.2.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/sjson-new-scalajson_2.12-0.8.2.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/slf4j-api-1.7.25.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/sourcecode_2.12-0.1.3.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ssl-config-core_2.12-0.2.2.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/task-system_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/tasks_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/template-resolver-0.1.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/test-agent-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/test-interface-1.0.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/testing_2.12-1.2.8.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/util-cache_2.12-1.2.4.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/util-control_2.12-1.2.4.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/util-interface-1.2.4.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/util-logging_2.12-1.2.4.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/util-position_2.12-1.2.4.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/util-relation_2.12-1.2.4.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/util-scripted_2.12-1.2.4.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/util-tracking_2.12-1.2.4.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/zinc-apiinfo_2.12-1.2.5.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/zinc-classfile_2.12-1.2.5.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/zinc-classpath_2.12-1.2.5.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/zinc-compile-core_2.12-1.2.5.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/zinc-compile_2.12-1.2.5.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/zinc-core_2.12-1.2.5.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/zinc-ivy-integration_2.12-1.2.5.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/zinc-persist_2.12-1.2.5.jar!/" />
-          <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/zinc_2.12-1.2.5.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/json-simple-1.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="sbt: xerces:xercesImpl:2.8.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: xalan:xalan:2.7.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:1.7.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: joda-time:joda-time:2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: javax.xml.bind:jaxb-api:2.2.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: javax.json:javax.json-api:1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: edu.stanford.nlp:stanford-corenlp:3.6.0:models:jar" level="project" />
+    <orderEntry type="library" name="sbt: edu.stanford.nlp:stanford-corenlp:3.6.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: de.jollyday:jollyday:0.4.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.io7m.xom:xom:1.2.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.googlecode.efficient-java-matrix-library:ejml:0.23:jar" level="project" />
   </component>
 </module>

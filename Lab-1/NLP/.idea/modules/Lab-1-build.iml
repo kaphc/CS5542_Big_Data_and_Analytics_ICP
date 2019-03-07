@@ -106,7 +106,7 @@
     </orderEntry>
   </component>
   <component name="SbtModule">
-    <option name="buildForURI" value="file:/C:/Users/Kavin%20Kumar/Documents/GitHub/CS5542_Team_2_LabAssignments/Lab-1/" />
+    <option name="buildForURI" value="file:/C:/Users/Kavin%20Kumar/Documents/GitHub/CS5542_Big_Data_and_Analytics_ICP/Lab-1/NLP/" />
     <option name="imports" value="_root_.sbt.Keys._, _root_.sbt.ScriptedPlugin.autoImport._, _root_.sbt._, _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.ScriptedPlugin, _root_.sbt.plugins.SbtPlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.scala.xml.{TopScope=&gt;SUB:DOLLARscope}" />
   </component>
 </module>
