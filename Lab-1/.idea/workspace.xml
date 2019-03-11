@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3a2ce9f-6527-4264-98d9-a40a685776c9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_6_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_6_1_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__com_googlecode_efficient_java_matrix_library_ejml_0_23_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__com_googlecode_efficient_java_matrix_library_ejml_0_23_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__com_io7m_xom_xom_1_2_10_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__com_io7m_xom_xom_1_2_10_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__de_jollyday_jollyday_0_4_7_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__de_jollyday_jollyday_0_4_7_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__edu_stanford_nlp_stanford_corenlp_3_6_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__edu_stanford_nlp_stanford_corenlp_3_6_0_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__edu_stanford_nlp_stanford_corenlp_3_6_0_models_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__edu_stanford_nlp_stanford_corenlp_3_6_0_models_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__javax_json_javax_json_api_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__javax_json_javax_json_api_1_0_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_2_7_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_2_7_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__joda_time_joda_time_2_9_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__joda_time_joda_time_2_9_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_12_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_12_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__xalan_xalan_2_7_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__xalan_xalan_2_7_0_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__xerces_xercesImpl_2_8_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__xerces_xercesImpl_2_8_0_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__xml_apis_xml_apis_1_3_03_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/libraries/sbt__xml_apis_xml_apis_1_3_03_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-5/ClassificationCNN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-5/ClassificationCNN/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-6/LSTMTensorflow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-6/LSTMTensorflow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-6/LSTMTensorflow/belling_the_cat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-6/LSTMTensorflow/belling_the_cat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-6/medium-show-and-tell-caption-generator-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-6/medium-show-and-tell-caption-generator-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-6/medium-show-and-tell-caption-generator-master/medium_show_and_tell_caption_generator/caption_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-6/medium-show-and-tell-caption-generator-master/medium_show_and_tell_caption_generator/caption_generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NLP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SIFT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SIFT/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,16 +24,24 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1083635501">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NLP/src/main/scala/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="83" column="49" lean-forward="true" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="161">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -95,7 +91,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -108,12 +103,6 @@
               <item name="Lab-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lab-1" type="462c0819:PsiDirectoryNode" />
               <item name="NLP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lab-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab-1" type="462c0819:PsiDirectoryNode" />
-              <item name="NLP" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Lab-1" type="b2602c69:ProjectViewProjectNode" />
@@ -140,11 +129,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551201593135" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Tutorial 6 Source Code/medium-show-and-tell-caption-generator-master" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -178,11 +168,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="modificationStamps">
@@ -207,15 +192,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2825911" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28219396" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.24511546" />
@@ -240,6 +225,9 @@
       <window_info anchor="right" id="sbt" order="8" />
     </layout>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data/sports_keywords.token" />
     <entry file="file://$PROJECT_DIR$/data/results_20130124-part.token" />
@@ -251,11 +239,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/Main.java" />
     <entry file="file://$PROJECT_DIR$/NLP/src/main/scala/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="83" column="49" lean-forward="true" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="161">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>
