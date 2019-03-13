@@ -1,54 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f712369a-d074-48d3-ac22-fad929704677" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../ICP-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-5/ClassificationCNN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-5/ClassificationCNN/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/modules/Lab-1-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/modules/Lab-1-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/modules/Lab-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/modules/Lab-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/scala_compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/data/caption" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/data/caption_sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/data/keywords" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$7d547212094825705a0e$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$7d547212094825705a0e.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$7d547212094825705a0e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$83949e48a8ce31930af9$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$83949e48a8ce31930af9.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$83949e48a8ce31930af9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$aebc5da84e853e1a79fd$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$aebc5da84e853e1a79fd.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$aebc5da84e853e1a79fd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$b7cce0e2c20c4f94ac6f$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$b7cce0e2c20c4f94ac6f.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$b7cce0e2c20c4f94ac6f.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$fb0a1891c0813c802b43$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$fb0a1891c0813c802b43.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/config-classes/$fb0a1891c0813c802b43.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/target/scala-2.12/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/target/scala-2.12/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/NLP/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/NLP/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab-1/SIFT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-1/SIFT/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f712369a-d074-48d3-ac22-fad929704677" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,56 +13,13 @@
     <SUITE FILE_PATH="coverage/DeepLearning_Lesson7$rnn_words.coverage" NAME="rnn_words Coverage Results" MODIFIED="1532451941009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DLICP7$rnn_words.coverage" NAME="rnn_words Coverage Results" MODIFIED="1551416814353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-390492943">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="txt" value="35" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="35" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="rnn_words.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rnn_words.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="90" column="35" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
-              <folding>
-                <element signature="e#36#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/belling_the_cat.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7030" selection-start-column="7030" selection-end-column="7030" />
+            <state relative-caret-position="17">
+              <caret line="122" column="32" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -118,7 +30,6 @@
     <findStrings>
       <find>learning</find>
       <find>optimi</find>
-      <find>session.run</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -131,14 +42,14 @@
         <option value="$PROJECT_DIR$/icp.txt" />
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/rnn_words.py" />
-        <option value="$PROJECT_DIR$/belling_the_cat.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="1551" />
-    <option name="height" value="834" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -153,17 +64,6 @@
               <item name="LSTMTensorflow" type="b2602c69:ProjectViewProjectNode" />
               <item name="LSTMTensorflow" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LSTMTensorflow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LSTMTensorflow" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LSTMTensorflow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LSTMTensorflow" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -173,7 +73,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ICP-5/ClassificationCNN" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -197,15 +98,15 @@
   </component>
   <component name="RunManager">
     <configuration name="rnn_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LSTMTensorflow" />
+      <module name="DeepLearning_Lesson7" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Kavin Kumar\Anaconda3\envs\tensorflow_env\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -214,9 +115,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
@@ -242,32 +140,58 @@
     <option name="totallyTimeSpent" value="3317000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26311606" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5133215" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22214764" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.329927" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3211679" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="4" />
-      <window_info anchor="right" id="SciView" order="5" weight="0.32955465" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32955465" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3211679" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2637584" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.32955465" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -275,25 +199,62 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/icp.txt" />
-    <entry file="file://$PROJECT_DIR$/icp" />
-    <entry file="file://$USER_HOME$/.conda/envs/DLICP1/Lib/collections/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/test.txt" />
     <entry file="file://$PROJECT_DIR$/rnn_words.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="90" column="35" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
-          <folding>
-            <element signature="e#36#54#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2074">
+          <caret line="122" column="32" lean-forward="true" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rnn_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="85" column="44" lean-forward="true" selection-start-line="85" selection-start-column="44" selection-end-line="85" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rnn_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belling_the_cat.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7030" selection-start-column="7030" selection-end-column="7030" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rnn_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icp.txt" />
+    <entry file="file://$PROJECT_DIR$/icp" />
+    <entry file="file://$USER_HOME$/.conda/envs/DLICP1/Lib/collections/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/test.txt" />
+    <entry file="file://$PROJECT_DIR$/belling_the_cat.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rnn_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="122" column="32" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="32" />
         </state>
       </provider>
     </entry>

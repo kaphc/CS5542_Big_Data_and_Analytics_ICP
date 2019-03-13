@@ -27,7 +27,8 @@ class ShowAndTellModel(object):
                 graph_def.ParseFromString(f.read())
                 tf.import_graph_def(graph_def, name='')
         else:
-            raise RuntimeError("Missing model file at path: {}".format(frozen_graph_path))
+            raise RuntimeError("Missing model file at path: {}".
+                               format(frozen_graph_path))
 
     def feed_image(self, encoded_image):
         initial_state = self._sess.run(fetches="lstm/initial_state:0",
@@ -42,3 +43,5 @@ class ShowAndTellModel(object):
                 "lstm/state_feed:0": state_feed,
             })
         return softmax_output, state_output, None
+
+
