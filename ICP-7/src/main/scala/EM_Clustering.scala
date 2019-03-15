@@ -9,7 +9,7 @@ object EM_Clustering {
     val sparkConf = new SparkConf().setAppName("SparkWordCount").setMaster("local[*]")
     val sc = new SparkContext(sparkConf)
 
-    val features=sc.textFile("data\\caption.token")
+    val features=sc.textFile("data\\wiki.token")
       .map(f=>{
         val str=f.replaceAll(",","")
         val ff=f.split(" ")

@@ -9,9 +9,12 @@ object kM_Clustering {
      System.setProperty("hadoop.home.dir", "C:\\utils")
     val sparkConf = new SparkConf().setAppName("SparkWordCount").setMaster("local[*]").set("spark.driver.memory","4G")
       .set("spark.executor.memory","3G")
+    // val sparkConf = new SparkConf().setAppName("SparkWordCount").setMaster("local[*]").set("spark.driver.memory","4G")
+      .set("spark.executor.memory","3G")
     val sc = new SparkContext(sparkConf)
 
-    val features=sc.textFile("data\\caption.token",500)
+    // val features=sc.textFile("data\\caption.token",500)
+    val features=sc.textFile("data\\wiki.token")
       .map(f=>{
         val str=f.replaceAll(",","")
         val ff=f.split(" ")
