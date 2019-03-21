@@ -76,7 +76,8 @@ class Similarity_Dataset_Iterator():
         return (self.matrix.transpose(), self.labels)
     
 def read_NewsGroup_data(similarity):    
-    categories_3NG = ['comp.graphics', 'rec.sport.baseball', 'talk.politics.guns', 'rec.motorcycles', 'rec.sport.hockey']
+    categories_3NG = ['comp.graphics', 'rec.sport.baseball', 'talk.politics.guns',
+                      'rec.motorcycles', 'rec.sport.hockey']
     dataset = fetch_20newsgroups(subset='train', categories=categories_3NG,
                                  shuffle=True, random_state=42)
     labels = dataset.target[:1000]
@@ -248,9 +249,9 @@ plt.show()
 
 origin_label_cos = np.array(trainSet_cosine.whole_dataset()[1]).astype(int)
 
-colors = [('c', '1'),('g', '2'),('m','3'),('k', '4'),('b','5')]
+colors = [('c', '1'),('g', '2'),('m','3'),('k', '4'),('b','4')]
 plt.figure(figsize=(14, 5))
-for num in range(3):
+for num in range(5):
     plt.legend()
     plt.subplot(1,2,2)
     plt.scatter([ae_codes_cos[:,0][i] for i in range(len(origin_label_cos)) if origin_label_cos[i] == num],
@@ -261,9 +262,9 @@ for num in range(3):
     plt.legend()
 plt.show()
 
-colors = [('c', '1'),('g', '2'),('m','3'),('k', '4'),('b','5')]
+colors = [('c', '1'),('g', '2'),('m','3'),('k', '4'),('b','4')]
 plt.figure(figsize=(14, 5))
-for num in range(3):
+for num in range(5):
     plt.legend()
     plt.subplot(1,2,2)
     plt.scatter([ae_codes_cos[:,0][i] for i in range(len(idx_cos)) if idx_cos[i] == num],
