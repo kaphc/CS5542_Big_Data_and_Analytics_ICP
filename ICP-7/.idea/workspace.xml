@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1332d7ea-904b-436e-bebd-596d95a9dc9d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/resultsEM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/resultsEM.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/wiki.token" beforeDir="false" afterPath="$PROJECT_DIR$/data/wiki.token" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/EM_Clustering.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/EM_Clustering.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/kM_Clustering.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/kM_Clustering.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/EM_Clustering$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/EM_Clustering$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/kM_Clustering$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/kM_Clustering$$anonfun$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/kM_Clustering$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/kM_Clustering$$anonfun$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/kM_Clustering$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/kM_Clustering$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-8/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -45,69 +36,23 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/kM_Clustering.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/EM_Clustering.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/wiki.token">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/resultsEM.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/caption.token">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/EM_Clustering.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21305">
-              <caret line="1877" column="83" selection-start-line="1877" selection-start-column="83" selection-end-line="1877" selection-end-column="83" />
+            <state relative-caret-position="510">
+              <caret line="34" column="6" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="6" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/Flickr8k.lemma.token.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="21" selection-start-line="7" selection-end-line="7" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/Flickr8k.token.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-664311">
-              <caret line="1369" column="48" selection-start-line="1369" selection-start-column="48" selection-end-line="1369" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/cc.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -142,19 +87,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="icp-7" type="b2602c69:ProjectViewProjectNode" />
               <item name="ICP-7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="icp-7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ICP-7" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="icp-7" type="b2602c69:ProjectViewProjectNode" />
@@ -178,6 +116,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,6 +191,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3104524905000" />
         <entry key="$PROJECT_DIR$/build.sbt" value="980229826" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
       </map>
@@ -283,7 +224,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24939272" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2534413" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -318,17 +259,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/wiki.token">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/results.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7667">
           <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/kM_Clustering.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/wiki.token">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/caption.token">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31909">
+          <caret line="1877" column="83" selection-start-line="1877" selection-start-column="83" selection-end-line="1877" selection-end-column="83" />
         </state>
       </provider>
     </entry>
@@ -341,7 +296,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/Flickr8k.token.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-664311">
+        <state relative-caret-position="23273">
           <caret line="1369" column="48" selection-start-line="1369" selection-start-column="48" selection-end-line="1369" selection-end-column="48" />
         </state>
       </provider>
@@ -349,29 +304,19 @@
     <entry file="file://$PROJECT_DIR$/data/cc.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/caption.token">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21305">
-          <caret line="1877" column="83" selection-start-line="1877" selection-start-column="83" selection-end-line="1877" selection-end-column="83" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/data/resultsEM.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/kM_Clustering.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
+      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/EM_Clustering.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="6" />
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="6" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/resultsEM.csv">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
