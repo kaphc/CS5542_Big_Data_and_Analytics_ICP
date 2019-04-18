@@ -2,7 +2,125 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5397b7e-6d2b-44eb-8eee-f4101d2cb3c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../ICP-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/model/features/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/model/features/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/model/features/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/model/features/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/model/features/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/model/features/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/model/features/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/model/features/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/model/features/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/model/features/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/ball/10082348.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/ball/12142386.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/ball/13301546.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/ball/14133592.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/ball/5629300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/basketball/17744613.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/basketball/32627994.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/basketball/32628083.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/basketball/5871970.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/basketball/86497011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/player/134206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/player/22926358.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/player/22928793.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/player/22930048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/player/2806447.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/soccer/33064498.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/soccer/33064663.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/soccer/33064820.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/soccer/37791887.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/test/soccer/47871819.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/ball/14377317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/ball/15875060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/ball/17744613.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/ball/18105594.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/ball/18119750.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/ball/22926358.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/ball/22926817.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/ball/23008270.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/ball/23008340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/ball/23008408.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/ball/23010569.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/ball/23012542.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/ball/23012796.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/143446265.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/1578355853.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/1799847835.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/2021602343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/2021613437.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/207240631.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/2096630557.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/2180356743.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/2208250764.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/2236016316.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/2237364221.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/2247192427.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/2251747182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/2271755053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/2272548482.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/254119388.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/419147172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/432229992.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/495947436.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/533601247.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/566794036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/basketball/719837187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/110637863.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/110802332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/111061041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/111796099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/118647903.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/121590361.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/122958692.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23008270.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23008340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23008408.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23010569.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23012542.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23012662.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23012796.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23015660.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23015940.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23016091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23016221.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23016250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23016347.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23017628.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23017965.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/23018379.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/25774845.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/32490830.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/35158971.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/43400872.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/47304629.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/47871819.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/48908641.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/player/73233864.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/110637863.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/112459543.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/114051287.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/118647903.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/123101580.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/126594141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/136693284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/146380493.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/154871781.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/160417285.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/162759228.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/162839055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/171822522.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/177106188.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/197504190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/200778628.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/200778857.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/205371152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/224702242.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/234241682.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/49402821.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3/train/soccer/75375389.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/IPSettings.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/IPSettings.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -20,11 +138,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/IPApp.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="3">
+              <caret line="136" column="32" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-1.6.0-sources.jar!/org/apache/spark/SparkContext.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="1928" selection-start-line="1928" selection-end-line="1928" />
             </state>
           </provider>
         </entry>
@@ -39,8 +166,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/IPSettings.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="51">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -50,6 +177,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>data</find>
+      <find>impurity</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -58,8 +186,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/IPSettings.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/IPApp.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/IPSettings.scala" />
       </list>
     </option>
   </component>
@@ -96,11 +224,6 @@
             <path>
               <item name="image_classification" type="b2602c69:ProjectViewProjectNode" />
               <item name="Image_Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="data3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="image_classification" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Image_Classification" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -123,7 +246,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555620368943" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555621532770" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,7 +329,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -223,7 +345,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6909414" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.8472469" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -262,15 +384,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/IPSettings.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/IPApp.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="3">
+          <caret line="136" column="32" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-1.6.0-sources.jar!/org/apache/spark/SparkContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1928" selection-start-line="1928" selection-end-line="1928" />
         </state>
       </provider>
     </entry>

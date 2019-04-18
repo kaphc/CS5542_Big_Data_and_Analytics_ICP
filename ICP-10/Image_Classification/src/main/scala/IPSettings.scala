@@ -3,7 +3,7 @@
   */
 object IPSettings {
 
-  val PATH = "data3/"
+  val PATH = "mydata/"
   val INPUT_DIR = PATH + "train"
   val TEST_INPUT_DIR = PATH + "test2"
   val FEATURES_PATH = PATH + "model/features"
