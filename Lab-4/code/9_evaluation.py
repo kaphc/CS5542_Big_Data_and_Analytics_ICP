@@ -132,10 +132,10 @@ def evaluate_model(model, descriptions, photos, tokenizer, max_length):
         actual.append(references)
         predicted.append(yhat.split())
     # calculate BLEU score
-    print('BLEU-1: %f' % corpus_bleu(actual, predicted, weights=(1.0, 0, 0, 0)))
-    print('BLEU-2: %f' % corpus_bleu(actual, predicted, weights=(0.5, 0.5, 0, 0)))
-    print('BLEU-3: %f' % corpus_bleu(actual, predicted, weights=(0.3, 0.3, 0.3, 0)))
-    print('BLEU-4: %f' % corpus_bleu(actual, predicted, weights=(0.25, 0.25, 0.25, 0.25)))
+    print('BLEU: %f' % corpus_bleu(actual, predicted, weights=(1.0, 0, 0, 0)))
+    print('ROGUE: %f' % corpus_bleu(actual, predicted, weights=(0.5, 0.5, 0, 0)))
+    print('CIDER: %f' % corpus_bleu(actual, predicted, weights=(0.3, 0.3, 0.3, 0)))
+    print('METEOR: %f' % corpus_bleu(actual, predicted, weights=(0.25, 0.25, 0.25, 0.25)))
 
 
 # prepare tokenizer on train set

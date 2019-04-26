@@ -71,7 +71,7 @@ max_length = 13
 # load the model
 model = load_model('models/model-ep007-loss0.587-val_loss0.547.h5')
 # load and prepare the photograph
-photo = extract_features('data/video/5_1084899.jpg')
+photo = extract_features('example5.jpg')
 # generate description
 description = generate_desc(model, tokenizer, photo, max_length)
 print(description)
