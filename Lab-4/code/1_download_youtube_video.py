@@ -14,6 +14,6 @@ def download_video(video_url, file_name):
     text_file.close()
 
 
-video_url = "https://www.youtube.com/watch?v=GrvjIhG1oZc"
-file_name = "17"
+video_url = "https://www.youtube.com/watch?v=xJUokU3fl58"
+file_name = "10900"
 download_video(video_url, file_name)
